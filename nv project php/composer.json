@@ -1,0 +1,17 @@
+{
+    "name": "zongotripledozo/yes",
+    "description": "yes",
+    "autoload": {
+        "psr-4": {
+            "Zongotripledozo\\Yes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yes"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.7"
+    }
+}
